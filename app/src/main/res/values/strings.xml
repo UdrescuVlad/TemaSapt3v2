@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TripAdvisor</string>
+    <string name="tripname">Trip Name</string>
+    <string name="destination">Destination</string>
+    <string name="triptype">Trip Type</string>
+    <string name="citybreak">City Break</string>
+    <string name="seeside">See Side</string>
+    <string name="mountains">Mountains</string>
+    <string name="price">Price(eur)</string>
+    <string name="startdate">Start Date</string>
+    <string name="enddate">End Date</string>
+    <string name="rating">Rating</string>
+    <string name="save">Save</string>
+
+</resources>
